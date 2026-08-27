@@ -1,23 +1,23 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-games/make-it-max-source",
-    "sourceSha":  "399587d28ed5d748b5201d5c47d939bda5aa033b",
+    "sourceSha":  "7c5a2263c80e1954866e7133e5dc69690eec5111",
     "workflowName":  "Source CI",
-    "workflowRunId":  "33041323224",
+    "workflowRunId":  "33052935010",
     "runnerName":  "FRG-LAPTOP-01",
-    "createdAt":  "2026-08-27T05:06:46.4064265Z",
+    "createdAt":  "2026-08-27T08:13:11.3168042Z",
     "files":  [
                   {
-                      "path":  "assets/index-BJa0YWKW.js",
-                      "sha256":  "9d88c531985a4abe3e847a9f0131e4cc4c0b7e9c594a488403d86711d88c75ca"
+                      "path":  "assets/index-DYOMc8bY.js",
+                      "sha256":  "c42bee44b0ec8c4f725ca3739940951d2d36906c6424a6c45d832d40db4a3ba6"
                   },
                   {
-                      "path":  "assets/index-Bua1O7gg.css",
-                      "sha256":  "cb96f4ffb32baa3c923272bbed73c9511f8e212ca3b4d89f63b3743147f5f13c"
+                      "path":  "assets/index-NoNMbtM6.css",
+                      "sha256":  "7c1e03ae713c92cece797a5cc4815772205def34aeac7efab2a2941c89fa0478"
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "85b5f180286f063412d741336806043ee75774c388907f995f85d3370d262f18"
+                      "sha256":  "9138f3b56ed4e3300fa7b72118b494acd883e68ff140179359915a6ad2115efd"
                   }
               ]
 }
