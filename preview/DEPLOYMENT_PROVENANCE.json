@@ -1,23 +1,23 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/make-it-max",
-    "sourceSha":  "292a764d680dce1b77e8e0dff75b56f5e76a4155",
+    "sourceSha":  "a604e8368274a4afdea7948953c00d3c969ea470",
     "workflowName":  "Source CI",
-    "workflowRunId":  "33560552350",
+    "workflowRunId":  "33584426234",
     "runnerName":  "FRD-LAPTOP-01",
-    "createdAt":  "2026-09-01T21:22:55.5214021Z",
+    "createdAt":  "2026-09-02T02:47:34.5122571Z",
     "files":  [
+                  {
+                      "path":  "assets/index-BCT0EUh-.js",
+                      "sha256":  "4155293965522bd57b1d79ac406b0bbe0d44e3632156d113fa8e06a401babf7a"
+                  },
                   {
                       "path":  "assets/index-BQgEkEAY.css",
                       "sha256":  "620d15afd5ef0c58a44f82d5b298e9542ae01bef73cc79d2f22f1c326b3962be"
                   },
                   {
-                      "path":  "assets/index-C_FVZZSr.js",
-                      "sha256":  "badfd8b6a5a8b228733241c111899d2970c897342ed954b07f96d772a06895cf"
-                  },
-                  {
                       "path":  "index.html",
-                      "sha256":  "3731b8dc2926ee3860f23af3622d7988be7b843a2f0e7f028d9afb8afdfc1602"
+                      "sha256":  "eb96a7da355bfe2739374367e97ebf51bae637dae034cbbd2ee252d682a178a2"
                   },
                   {
                       "path":  "og-share.png",
