@@ -1,23 +1,19 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/make-it-max",
-    "sourceSha":  "58577c0984b4d860e0fcc6a90e7a49fd3c0f7e8b",
+    "sourceSha":  "6084c5f4d8c798fd270fbd05720b90ce00ff8519",
     "workflowName":  "Source CI",
-    "workflowRunId":  "34114962908",
+    "workflowRunId":  "34118480214",
     "runnerName":  "FRD-LAPTOP-01",
-    "createdAt":  "2026-09-07T11:09:05.9423430Z",
+    "createdAt":  "2026-09-07T11:55:08.3313525Z",
     "files":  [
                   {
-                      "path":  "assets/card-atlas-BShEe7l4.webp",
-                      "sha256":  "c7918211777fa9a916e590b8d4c4119dd30cac4d9cf5b070c7c8f823b31b4594"
+                      "path":  "assets/index-Cr2FScoW.js",
+                      "sha256":  "97d67604cb720d2792dee8250777f943e712590a0ce41b2b9f51302ac7249884"
                   },
                   {
-                      "path":  "assets/index-CBcihL9w.css",
-                      "sha256":  "1bf489c3ee9464d4b718336bb5a3eedc0c5373725efb0fad9bd02b35338feccd"
-                  },
-                  {
-                      "path":  "assets/index-CKe2JOKs.js",
-                      "sha256":  "1793510a30e7346a4c8ea37f9421afd1e83f19505b5947876d7ca6d48908c1b1"
+                      "path":  "assets/index-iIfTUbPN.css",
+                      "sha256":  "78d032048bded9f0990b9f393bf7de3bb79fd919f7496af47a3a18980a481d73"
                   },
                   {
                       "path":  "favicon.svg",
@@ -25,7 +21,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "7a5a406d9bbcbbce4da7e15cd8cb713674eeb6ee0466bec52044ac2de98429e2"
+                      "sha256":  "2cad4b9d70a88c2c0ac0312c8cb80f59e8f6ed7c71249a1d023d959631e7cdf0"
                   },
                   {
                       "path":  "og-share.png",
