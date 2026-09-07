@@ -1,19 +1,27 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/make-it-max",
-    "sourceSha":  "7f7358743c3894386ffae1333067ef1ac2141a0d",
+    "sourceSha":  "5dceab1f47261e52899e628518025009aaa9bb48",
     "workflowName":  "Source CI",
-    "workflowRunId":  "34092023669",
+    "workflowRunId":  "34096846862",
     "runnerName":  "FRD-LAPTOP-01",
-    "createdAt":  "2026-09-07T06:44:34.2558126Z",
+    "createdAt":  "2026-09-07T07:44:55.2808101Z",
     "files":  [
                   {
-                      "path":  "assets/index-DxgrStrV.js",
-                      "sha256":  "650a55a0274da1f0c7abbd601bf69ecf8e86e4a42890b44efcf82e89dc00c592"
+                      "path":  "assets/card-atlas-BShEe7l4.webp",
+                      "sha256":  "c7918211777fa9a916e590b8d4c4119dd30cac4d9cf5b070c7c8f823b31b4594"
                   },
                   {
-                      "path":  "assets/index-u7Ku62kl.css",
-                      "sha256":  "e80800a2c3fc3e5b452f9ae4c7f407416e051aba93524627a42a74795f58c440"
+                      "path":  "assets/cloud-atlas-t3XJ9olb.webp",
+                      "sha256":  "89c575c3a9ef26a338a280014b80f97a8a345835ebc38f8869436e11b90c70a0"
+                  },
+                  {
+                      "path":  "assets/index-Bo570cTw.js",
+                      "sha256":  "cba411adfa2ec945ba22d39ee7ffef5cf19fc17bafc0c06466cfb5185ba76e7b"
+                  },
+                  {
+                      "path":  "assets/index-CH1IBiQD.css",
+                      "sha256":  "1d8ef76f1f031451515f817107d3b43846ded150770e1c09a15a6d37b3ae8d31"
                   },
                   {
                       "path":  "favicon.svg",
@@ -21,7 +29,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "4013e2c59b36128f55cc23d91de8caef12a249940bab6aeb8c4e252d586fcadd"
+                      "sha256":  "07f1e934045d803956e4d63dd706036b6d3766f084688c06fcdff836b6b81718"
                   },
                   {
                       "path":  "og-share.png",
