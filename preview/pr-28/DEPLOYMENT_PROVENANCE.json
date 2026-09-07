@@ -1,31 +1,23 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/make-it-max",
-    "sourceSha":  "9c1c66513809701f7e8a8e98c0846dc3050d544f",
+    "sourceSha":  "58577c0984b4d860e0fcc6a90e7a49fd3c0f7e8b",
     "workflowName":  "Source CI",
-    "workflowRunId":  "34105695940",
+    "workflowRunId":  "34114962908",
     "runnerName":  "FRD-LAPTOP-01",
-    "createdAt":  "2026-09-07T09:24:45.3269222Z",
+    "createdAt":  "2026-09-07T11:09:05.9423430Z",
     "files":  [
                   {
                       "path":  "assets/card-atlas-BShEe7l4.webp",
                       "sha256":  "c7918211777fa9a916e590b8d4c4119dd30cac4d9cf5b070c7c8f823b31b4594"
                   },
                   {
-                      "path":  "assets/difficulty-clouds-C6Mi7Ts2.webp",
-                      "sha256":  "f532d5d1926e280383395dad9151a3e0765effc9b234ca281f942fd70afe33a1"
+                      "path":  "assets/index-CBcihL9w.css",
+                      "sha256":  "1bf489c3ee9464d4b718336bb5a3eedc0c5373725efb0fad9bd02b35338feccd"
                   },
                   {
-                      "path":  "assets/index-BSYCtAuf.css",
-                      "sha256":  "9e726b86397935cdbbcfc99080d4c63865fbc67a140897daf551d78c1a90f13e"
-                  },
-                  {
-                      "path":  "assets/index-CypAm8-e.js",
-                      "sha256":  "bd39c1c9ea9d6bd362d50190e7bd46617020f00ed3d7bc84ce74f0ea59dc5f34"
-                  },
-                  {
-                      "path":  "assets/lobby-clouds-BvcCtjdh.webp",
-                      "sha256":  "292289280a144be86e34190d187f18415655abc9eb544faed28f91438070ac04"
+                      "path":  "assets/index-CKe2JOKs.js",
+                      "sha256":  "1793510a30e7346a4c8ea37f9421afd1e83f19505b5947876d7ca6d48908c1b1"
                   },
                   {
                       "path":  "favicon.svg",
@@ -33,7 +25,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "26ce7919ac8b8c509387568c0ae2cf68a6d0b449cddd5f6401dfd1a57c8af85f"
+                      "sha256":  "7a5a406d9bbcbbce4da7e15cd8cb713674eeb6ee0466bec52044ac2de98429e2"
                   },
                   {
                       "path":  "og-share.png",
