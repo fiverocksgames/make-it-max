@@ -1,19 +1,31 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/make-it-max",
-    "sourceSha":  "96820f4cca1f0b75cb063df698de5e8df9bde42c",
+    "sourceSha":  "ea286cdba3c7ebd9626ee08abcfe58ee985332f0",
     "workflowName":  "Source CI",
-    "workflowRunId":  "34209200376",
+    "workflowRunId":  "37440204283",
     "runnerName":  "FRD-LAPTOP-01",
-    "createdAt":  "2026-09-08T09:19:51.7795110Z",
+    "createdAt":  "2026-10-06T09:04:40.3585086Z",
     "files":  [
                   {
                       "path":  "assets/index-3y5SLOuM.css",
                       "sha256":  "3bb6ea50a27ff0cc3361bd16cd58f1d9c3f71ee37c45cce978abe15dfbf0aca6"
                   },
                   {
-                      "path":  "assets/index-B4_z064K.js",
-                      "sha256":  "7fba5f928654edf52d65bcdd261c841338b354be66f512743fdacc49b5b737af"
+                      "path":  "assets/index-uMEMZKhw.js",
+                      "sha256":  "f41ac283cfd50fea4761d7f01db2d8d31207139be16b62bf41dd904e189258be"
+                  },
+                  {
+                      "path":  "audio/bgm_game_gentle.mp3",
+                      "sha256":  "8e2ac0e89d11e900e7ed5e8a6e596ae1ac08d7d97b30224ce091e976830b567b"
+                  },
+                  {
+                      "path":  "audio/bgm_lobby_clockwork.mp3",
+                      "sha256":  "c522f1f0456cc2cdfa9b9a1b4bd584bb5001dbf0e8df148814ad0b0714215bfc"
+                  },
+                  {
+                      "path":  "audio/SOURCE.md",
+                      "sha256":  "c31ac4dd4c236174f9fc0c737a7ba81965cded0d4394000a6d29227875ea81f7"
                   },
                   {
                       "path":  "favicon.svg",
@@ -21,7 +33,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "1e32e8a68f50912b5b8654cf6b8167ee73a393803b12b15d6c57d34bdd2ab10c"
+                      "sha256":  "93020f67a19ad239ffee1fb94e4e0cd255305106c36b318cbc722353b1c06210"
                   },
                   {
                       "path":  "og-share.png",
