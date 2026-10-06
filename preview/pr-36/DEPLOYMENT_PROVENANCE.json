@@ -1,19 +1,19 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/make-it-max",
-    "sourceSha":  "f363c7715c6a9c4937f94cf03408beb0fbf579e3",
+    "sourceSha":  "6374813d952a39f346dd868971967f9e4efc1b0b",
     "workflowName":  "Source CI",
-    "workflowRunId":  "37420613209",
+    "workflowRunId":  "37420884908",
     "runnerName":  "FRD-LAPTOP-01",
-    "createdAt":  "2026-10-06T05:53:27.8345667Z",
+    "createdAt":  "2026-10-06T05:56:47.7687760Z",
     "files":  [
                   {
                       "path":  "assets/index-3y5SLOuM.css",
                       "sha256":  "3bb6ea50a27ff0cc3361bd16cd58f1d9c3f71ee37c45cce978abe15dfbf0aca6"
                   },
                   {
-                      "path":  "assets/index-BZUKdBCf.js",
-                      "sha256":  "b209fb645585b8e9c6cbfc2610f98d33b707c2b4c8a7e4ecf2ea4ef9fd9f3392"
+                      "path":  "assets/index-DsFa4yAM.js",
+                      "sha256":  "7611a0afbe67d95063113814b485ae0abee1cb8338f286a96c6de44e522965d4"
                   },
                   {
                       "path":  "audio/bgm_game_gentle.mp3",
@@ -33,7 +33,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "8bff9e3cc8bfccf7480480a132b077b174590ab0bdb48409fc5273b568452eed"
+                      "sha256":  "279d7edb9d38421bb74fdc960f8839e03a62e61440a4ccaa0701d8c6394a4c71"
                   },
                   {
                       "path":  "og-share.png",
