@@ -1,11 +1,11 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/make-it-max",
-    "sourceSha":  "48a0bbcc4d53c8f5cefe4992baa49e15a84739bf",
+    "sourceSha":  "e8acd739c1ba73eb5ea0e712e05c06797a53c4ea",
     "workflowName":  "Source CI",
-    "workflowRunId":  "37426896835",
+    "workflowRunId":  "37444180110",
     "runnerName":  "FRD-LAPTOP-01",
-    "createdAt":  "2026-10-06T07:01:54.9950507Z",
+    "createdAt":  "2026-10-06T09:38:58.8141881Z",
     "files":  [
                   {
                       "path":  "assets/card-pick-DYyc6cCv.ogg",
@@ -28,8 +28,8 @@
                       "sha256":  "3bb6ea50a27ff0cc3361bd16cd58f1d9c3f71ee37c45cce978abe15dfbf0aca6"
                   },
                   {
-                      "path":  "assets/index-D5bHzOAk.js",
-                      "sha256":  "cb29df5a89e0848b3f681127d507df8ed2533cb0e1c9299d06db018df32f7de7"
+                      "path":  "assets/index-QJ4IEvR4.js",
+                      "sha256":  "32a1446fa1d5274e1203dcdac962e16b7bd1f688dbf81d50331259cfcc939620"
                   },
                   {
                       "path":  "assets/modal-cancel-error-Den0ooqb.ogg",
@@ -56,12 +56,24 @@
                       "sha256":  "803e1ca44b32813cb4978219efe939d74c4ff7d319512fec6412e9fb6066bfd6"
                   },
                   {
+                      "path":  "audio/bgm_game_gentle.mp3",
+                      "sha256":  "8e2ac0e89d11e900e7ed5e8a6e596ae1ac08d7d97b30224ce091e976830b567b"
+                  },
+                  {
+                      "path":  "audio/bgm_lobby_clockwork.mp3",
+                      "sha256":  "c522f1f0456cc2cdfa9b9a1b4bd584bb5001dbf0e8df148814ad0b0714215bfc"
+                  },
+                  {
+                      "path":  "audio/SOURCE.md",
+                      "sha256":  "c31ac4dd4c236174f9fc0c737a7ba81965cded0d4394000a6d29227875ea81f7"
+                  },
+                  {
                       "path":  "favicon.svg",
                       "sha256":  "f307b7a3cb54783317903e1813ddee5c4423bbd845cfb8bb6b2c4ed738c84410"
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "83660ebb1f9eba9a1d48b8b15ed144d4c2f7bf3b58fa299ed1f77d9cf1596e52"
+                      "sha256":  "4e1f6bf442fabebe08e628b3b0208da567df7aa628236c23c362b1c9ee58476f"
                   },
                   {
                       "path":  "og-share.png",
