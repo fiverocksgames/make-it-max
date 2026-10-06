@@ -1,23 +1,31 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/make-it-max",
-    "sourceSha":  "e0bdee730d27091cb205465efa09f88ceed417e9",
+    "sourceSha":  "f363c7715c6a9c4937f94cf03408beb0fbf579e3",
     "workflowName":  "Source CI",
-    "workflowRunId":  "37406977131",
+    "workflowRunId":  "37420613209",
     "runnerName":  "FRD-LAPTOP-01",
-    "createdAt":  "2026-10-06T03:03:53.3470295Z",
+    "createdAt":  "2026-10-06T05:53:27.8345667Z",
     "files":  [
                   {
                       "path":  "assets/index-3y5SLOuM.css",
                       "sha256":  "3bb6ea50a27ff0cc3361bd16cd58f1d9c3f71ee37c45cce978abe15dfbf0aca6"
                   },
                   {
-                      "path":  "assets/index-CgUg0wDq.js",
-                      "sha256":  "ba266c7e59bbcdcfa2b8f4e1e9a9d3b9d946e1f9a9e853a39641be9810093266"
+                      "path":  "assets/index-BZUKdBCf.js",
+                      "sha256":  "b209fb645585b8e9c6cbfc2610f98d33b707c2b4c8a7e4ecf2ea4ef9fd9f3392"
+                  },
+                  {
+                      "path":  "audio/bgm_game_gentle.mp3",
+                      "sha256":  "8e2ac0e89d11e900e7ed5e8a6e596ae1ac08d7d97b30224ce091e976830b567b"
+                  },
+                  {
+                      "path":  "audio/bgm_lobby_clockwork.mp3",
+                      "sha256":  "c522f1f0456cc2cdfa9b9a1b4bd584bb5001dbf0e8df148814ad0b0714215bfc"
                   },
                   {
                       "path":  "audio/SOURCE.md",
-                      "sha256":  "0c084f6a02bb27f5fc1f4f2af2a48ced8c35835402238601d8e9cb5a4a57afcd"
+                      "sha256":  "c31ac4dd4c236174f9fc0c737a7ba81965cded0d4394000a6d29227875ea81f7"
                   },
                   {
                       "path":  "favicon.svg",
@@ -25,7 +33,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "d2a7f658e4776888192ec79e60a5f5e2e47728a1bf0876eaf418c53dc9701ab3"
+                      "sha256":  "8bff9e3cc8bfccf7480480a132b077b174590ab0bdb48409fc5273b568452eed"
                   },
                   {
                       "path":  "og-share.png",
