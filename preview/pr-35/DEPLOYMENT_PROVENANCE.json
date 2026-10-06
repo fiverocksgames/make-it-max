@@ -1,19 +1,59 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/make-it-max",
-    "sourceSha":  "a5918b8c24a3d0700b2751062c4f89fb2b1f90d2",
+    "sourceSha":  "48a0bbcc4d53c8f5cefe4992baa49e15a84739bf",
     "workflowName":  "Source CI",
-    "workflowRunId":  "37409290259",
+    "workflowRunId":  "37426896835",
     "runnerName":  "FRD-LAPTOP-01",
-    "createdAt":  "2026-10-06T03:32:42.0123036Z",
+    "createdAt":  "2026-10-06T07:01:54.9950507Z",
     "files":  [
+                  {
+                      "path":  "assets/card-pick-DYyc6cCv.ogg",
+                      "sha256":  "72235ae7e40ea26239e759faee233fe6679419e6d2b02fbb7f9bf5b95a54d0bf"
+                  },
+                  {
+                      "path":  "assets/card-place-B6kWB_q5.ogg",
+                      "sha256":  "9b10ddcb0abffb8c994aeddce00b4eb9ce49050f4f74d41728288f33daf1f5a6"
+                  },
+                  {
+                      "path":  "assets/card-return-B_JtZ0YI.ogg",
+                      "sha256":  "ddecbab5edcae41807456353a464ab69a8d2e1a2bb1cb19ce85853b0a48df237"
+                  },
+                  {
+                      "path":  "assets/game-start-YnYrs5jw.ogg",
+                      "sha256":  "fb7980791a77b9836fcee5641a9084bc7a081bfd5c526499fce1df9c2dd4f5d7"
+                  },
                   {
                       "path":  "assets/index-3y5SLOuM.css",
                       "sha256":  "3bb6ea50a27ff0cc3361bd16cd58f1d9c3f71ee37c45cce978abe15dfbf0aca6"
                   },
                   {
-                      "path":  "assets/index-QOUN47pk.js",
-                      "sha256":  "0d680bea544646aba81557dc05b209eb6abdc7de4c965eea80d5b00539c3f88e"
+                      "path":  "assets/index-D5bHzOAk.js",
+                      "sha256":  "cb29df5a89e0848b3f681127d507df8ed2533cb0e1c9299d06db018df32f7de7"
+                  },
+                  {
+                      "path":  "assets/modal-cancel-error-Den0ooqb.ogg",
+                      "sha256":  "a7e6759f65c07307a6c6a50e673e0aa2923464fda28ed5b8340a511219a034d0"
+                  },
+                  {
+                      "path":  "assets/result-normal-8C-iIJNe.ogg",
+                      "sha256":  "f3fd4af17da563790877f0f3f0b173100b14dedf140c8a575b417311ef629d31"
+                  },
+                  {
+                      "path":  "assets/result-perfect-B4f4zzW6.ogg",
+                      "sha256":  "348cf483ba8f558113ee2da5b688012fa428e8e76ba6b8d90ba9ff32b36ad258"
+                  },
+                  {
+                      "path":  "assets/share-feedback-B_TkF3NF.ogg",
+                      "sha256":  "59784affc74667ba6425466570542824d52915f6dc5fc46a7a2076d9154ff365"
+                  },
+                  {
+                      "path":  "assets/submit-jmtG59cE.ogg",
+                      "sha256":  "a00f0694f62116d915f55876d4e1c335712d4897ed966207e99f4af83e696e45"
+                  },
+                  {
+                      "path":  "assets/ui-click-707-g2_J.ogg",
+                      "sha256":  "803e1ca44b32813cb4978219efe939d74c4ff7d319512fec6412e9fb6066bfd6"
                   },
                   {
                       "path":  "favicon.svg",
@@ -21,7 +61,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "b61f154dabc82097737890ab030efd8b7d64411c26302b5fa1bff644d97de52a"
+                      "sha256":  "83660ebb1f9eba9a1d48b8b15ed144d4c2f7bf3b58fa299ed1f77d9cf1596e52"
                   },
                   {
                       "path":  "og-share.png",
