@@ -1,19 +1,59 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/make-it-max",
-    "sourceSha":  "ea286cdba3c7ebd9626ee08abcfe58ee985332f0",
+    "sourceSha":  "30e88e6c4c8deca49f197f5b089ac6b93fa26b97",
     "workflowName":  "Source CI",
-    "workflowRunId":  "37440204283",
+    "workflowRunId":  "37475301141",
     "runnerName":  "FRD-LAPTOP-01",
-    "createdAt":  "2026-10-06T09:04:40.3585086Z",
+    "createdAt":  "2026-10-06T14:04:48.7961524Z",
     "files":  [
+                  {
+                      "path":  "assets/card-pick-DYyc6cCv.ogg",
+                      "sha256":  "72235ae7e40ea26239e759faee233fe6679419e6d2b02fbb7f9bf5b95a54d0bf"
+                  },
+                  {
+                      "path":  "assets/card-place-B6kWB_q5.ogg",
+                      "sha256":  "9b10ddcb0abffb8c994aeddce00b4eb9ce49050f4f74d41728288f33daf1f5a6"
+                  },
+                  {
+                      "path":  "assets/card-return-B_JtZ0YI.ogg",
+                      "sha256":  "ddecbab5edcae41807456353a464ab69a8d2e1a2bb1cb19ce85853b0a48df237"
+                  },
+                  {
+                      "path":  "assets/game-start-YnYrs5jw.ogg",
+                      "sha256":  "fb7980791a77b9836fcee5641a9084bc7a081bfd5c526499fce1df9c2dd4f5d7"
+                  },
                   {
                       "path":  "assets/index-3y5SLOuM.css",
                       "sha256":  "3bb6ea50a27ff0cc3361bd16cd58f1d9c3f71ee37c45cce978abe15dfbf0aca6"
                   },
                   {
-                      "path":  "assets/index-uMEMZKhw.js",
-                      "sha256":  "f41ac283cfd50fea4761d7f01db2d8d31207139be16b62bf41dd904e189258be"
+                      "path":  "assets/index-DA0Wucl7.js",
+                      "sha256":  "71fab18e7388104172a063f54111159e502ea073e8b5d9dda88a9b5954a46bd2"
+                  },
+                  {
+                      "path":  "assets/modal-cancel-error-Den0ooqb.ogg",
+                      "sha256":  "a7e6759f65c07307a6c6a50e673e0aa2923464fda28ed5b8340a511219a034d0"
+                  },
+                  {
+                      "path":  "assets/result-normal-8C-iIJNe.ogg",
+                      "sha256":  "f3fd4af17da563790877f0f3f0b173100b14dedf140c8a575b417311ef629d31"
+                  },
+                  {
+                      "path":  "assets/result-perfect-B4f4zzW6.ogg",
+                      "sha256":  "348cf483ba8f558113ee2da5b688012fa428e8e76ba6b8d90ba9ff32b36ad258"
+                  },
+                  {
+                      "path":  "assets/share-feedback-B_TkF3NF.ogg",
+                      "sha256":  "59784affc74667ba6425466570542824d52915f6dc5fc46a7a2076d9154ff365"
+                  },
+                  {
+                      "path":  "assets/submit-jmtG59cE.ogg",
+                      "sha256":  "a00f0694f62116d915f55876d4e1c335712d4897ed966207e99f4af83e696e45"
+                  },
+                  {
+                      "path":  "assets/ui-click-707-g2_J.ogg",
+                      "sha256":  "803e1ca44b32813cb4978219efe939d74c4ff7d319512fec6412e9fb6066bfd6"
                   },
                   {
                       "path":  "audio/bgm_game_gentle.mp3",
@@ -33,7 +73,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "93020f67a19ad239ffee1fb94e4e0cd255305106c36b318cbc722353b1c06210"
+                      "sha256":  "bbf9c5c386d7ff1492d31742b90ace0d73cff9ef993a38eb774742b6b29b06e6"
                   },
                   {
                       "path":  "og-share.png",
