@@ -1,19 +1,71 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/make-it-max",
-    "sourceSha":  "cdd4340b53ce6598c2584dec67b29ba926498d1a",
+    "sourceSha":  "506e4a615abb6f078dfbfb8a7638e7f96da49768",
     "workflowName":  "Source CI",
-    "workflowRunId":  "37425757509",
+    "workflowRunId":  "38648125816",
     "runnerName":  "FRD-LAPTOP-01",
-    "createdAt":  "2026-10-06T06:51:32.0436701Z",
+    "createdAt":  "2026-10-14T22:33:21.3083036Z",
     "files":  [
                   {
-                      "path":  "assets/index-Ca39Fdbh.css",
-                      "sha256":  "a38b7d94cd0d3432d7b3f3c7f4dd464db8dbe1970e685f022e3cf6d85c1e7cda"
+                      "path":  "assets/card-pick-DYyc6cCv.ogg",
+                      "sha256":  "72235ae7e40ea26239e759faee233fe6679419e6d2b02fbb7f9bf5b95a54d0bf"
                   },
                   {
-                      "path":  "assets/index-DAorOx5Q.js",
-                      "sha256":  "d55762fdc681060b5533986c8097be57c75e7798ffcfd15941db0e7e038549e3"
+                      "path":  "assets/card-place-B6kWB_q5.ogg",
+                      "sha256":  "9b10ddcb0abffb8c994aeddce00b4eb9ce49050f4f74d41728288f33daf1f5a6"
+                  },
+                  {
+                      "path":  "assets/card-return-B_JtZ0YI.ogg",
+                      "sha256":  "ddecbab5edcae41807456353a464ab69a8d2e1a2bb1cb19ce85853b0a48df237"
+                  },
+                  {
+                      "path":  "assets/game-start-YnYrs5jw.ogg",
+                      "sha256":  "fb7980791a77b9836fcee5641a9084bc7a081bfd5c526499fce1df9c2dd4f5d7"
+                  },
+                  {
+                      "path":  "assets/index-BSQsvBZc.css",
+                      "sha256":  "53adcd87e1772ed7c7cbd97ee642e7ce02496f46f404ad93b16dc874c1641d53"
+                  },
+                  {
+                      "path":  "assets/index-CCX5b6wZ.js",
+                      "sha256":  "3bf406fbab9fe2db0226e2c84fee0b3298199f5390f00a04a435aa7eb9f8c273"
+                  },
+                  {
+                      "path":  "assets/modal-cancel-error-Den0ooqb.ogg",
+                      "sha256":  "a7e6759f65c07307a6c6a50e673e0aa2923464fda28ed5b8340a511219a034d0"
+                  },
+                  {
+                      "path":  "assets/result-normal-8C-iIJNe.ogg",
+                      "sha256":  "f3fd4af17da563790877f0f3f0b173100b14dedf140c8a575b417311ef629d31"
+                  },
+                  {
+                      "path":  "assets/result-perfect-B4f4zzW6.ogg",
+                      "sha256":  "348cf483ba8f558113ee2da5b688012fa428e8e76ba6b8d90ba9ff32b36ad258"
+                  },
+                  {
+                      "path":  "assets/share-feedback-B_TkF3NF.ogg",
+                      "sha256":  "59784affc74667ba6425466570542824d52915f6dc5fc46a7a2076d9154ff365"
+                  },
+                  {
+                      "path":  "assets/submit-jmtG59cE.ogg",
+                      "sha256":  "a00f0694f62116d915f55876d4e1c335712d4897ed966207e99f4af83e696e45"
+                  },
+                  {
+                      "path":  "assets/ui-click-707-g2_J.ogg",
+                      "sha256":  "803e1ca44b32813cb4978219efe939d74c4ff7d319512fec6412e9fb6066bfd6"
+                  },
+                  {
+                      "path":  "audio/bgm_game_gentle.mp3",
+                      "sha256":  "8e2ac0e89d11e900e7ed5e8a6e596ae1ac08d7d97b30224ce091e976830b567b"
+                  },
+                  {
+                      "path":  "audio/bgm_lobby_clockwork.mp3",
+                      "sha256":  "c522f1f0456cc2cdfa9b9a1b4bd584bb5001dbf0e8df148814ad0b0714215bfc"
+                  },
+                  {
+                      "path":  "audio/SOURCE.md",
+                      "sha256":  "c31ac4dd4c236174f9fc0c737a7ba81965cded0d4394000a6d29227875ea81f7"
                   },
                   {
                       "path":  "favicon.svg",
@@ -21,7 +73,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "102f39e9ef9a6b550f1c0078e0ca7bbc9b4a209717b0ae489eab35c7947293e5"
+                      "sha256":  "9e528e365f119f3dc8932c43960bf19a5db1b01aa43b88fdf0e186c04a2fd644"
                   },
                   {
                       "path":  "og-share.png",
