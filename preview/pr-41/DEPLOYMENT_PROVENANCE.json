@@ -1,11 +1,11 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/make-it-max",
-    "sourceSha":  "adeadbb8819e4560a39700132f2cf2a79028c832",
+    "sourceSha":  "06a24175cbaa989511512928a2f786baed1f696d",
     "workflowName":  "Source CI",
-    "workflowRunId":  "39431142766",
+    "workflowRunId":  "39542203608",
     "runnerName":  "FRD-LAPTOP-01",
-    "createdAt":  "2026-10-20T13:35:25.5611736Z",
+    "createdAt":  "2026-10-21T04:09:32.4079741Z",
     "files":  [
                   {
                       "path":  "assets/card-pick-DYyc6cCv.ogg",
@@ -24,12 +24,12 @@
                       "sha256":  "fb7980791a77b9836fcee5641a9084bc7a081bfd5c526499fce1df9c2dd4f5d7"
                   },
                   {
-                      "path":  "assets/index-BX_VjPgX.js",
-                      "sha256":  "767910974b88ccd433a2406ae2475a5e659bd2942ead5998f5ffd5d7f8f97655"
+                      "path":  "assets/index-C4ltEIpu.css",
+                      "sha256":  "10e5a3fefc7558b82659004683f174a5194f116a91a2d642a613056fab9209f6"
                   },
                   {
-                      "path":  "assets/index-s1w-YmBE.css",
-                      "sha256":  "e0a582c02f4f1ee00bb8e927cb2ddae8c96eb426f6c39b4909319d46d546e56b"
+                      "path":  "assets/index-Dc0dNCCN.js",
+                      "sha256":  "549b2d99ff1ef0892884eb70a446697a2c7a480b7a6a437ddf300a9acaa628ef"
                   },
                   {
                       "path":  "assets/make-it-max-logo-DTbnIQT2.png",
@@ -77,7 +77,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "91c9ad0cf7902d8e4d6b3328d17609ea0f09b4cdb2f97d52a002f53fb11d655a"
+                      "sha256":  "8f37fafb0199a19da89f2e030bba01e2f70d2532057d468742c7a3ba0e2b27a7"
                   },
                   {
                       "path":  "og-share.png",
