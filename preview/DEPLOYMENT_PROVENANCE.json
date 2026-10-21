@@ -1,11 +1,11 @@
 ﻿{
     "schemaVersion":  1,
     "sourceRepository":  "fiverocks-dev/make-it-max",
-    "sourceSha":  "ae84ec9061237f5f70890e47dac4757b26538826",
+    "sourceSha":  "6a0b22dbb0a1b17471939369c7b441279093a980",
     "workflowName":  "Source CI",
-    "workflowRunId":  "39122874223",
+    "workflowRunId":  "39693715228",
     "runnerName":  "FRD-LAPTOP-01",
-    "createdAt":  "2026-10-18T11:24:01.8375363Z",
+    "createdAt":  "2026-10-21T23:32:11.5168112Z",
     "files":  [
                   {
                       "path":  "assets/card-pick-DYyc6cCv.ogg",
@@ -24,12 +24,16 @@
                       "sha256":  "fb7980791a77b9836fcee5641a9084bc7a081bfd5c526499fce1df9c2dd4f5d7"
                   },
                   {
-                      "path":  "assets/index-C-gHyPdI.css",
-                      "sha256":  "3675a6855eb9a2d231616d84e4cb7f1fc524de5a3716f66d6119e297a407e846"
+                      "path":  "assets/index-C4ltEIpu.css",
+                      "sha256":  "10e5a3fefc7558b82659004683f174a5194f116a91a2d642a613056fab9209f6"
                   },
                   {
-                      "path":  "assets/index-OSjGuqjo.js",
-                      "sha256":  "c09df97c747565aed8de3fa970bd438d5c0d40d1c3b2e5a4f05b6b1bb52e4e63"
+                      "path":  "assets/index-DZFaw3e3.js",
+                      "sha256":  "50c15f3197a52f2374a89845a702373b85dc5ee8d9bc6b6ea63763e65210d9f5"
+                  },
+                  {
+                      "path":  "assets/make-it-max-logo-DTbnIQT2.png",
+                      "sha256":  "f12e5fe5f50d37811199510eb35c3de4f05db0a6a053022bd0300b74594dc266"
                   },
                   {
                       "path":  "assets/modal-cancel-error-Den0ooqb.ogg",
@@ -73,7 +77,7 @@
                   },
                   {
                       "path":  "index.html",
-                      "sha256":  "e8ffaca44d4e28ea03aa20dfff5cc2b3b57ada1884d2ace78f7538048cb0a8cd"
+                      "sha256":  "47abd0fa0294d418357895f34a829ab59d16599842971619842709fe9797e3f3"
                   },
                   {
                       "path":  "og-share.png",
